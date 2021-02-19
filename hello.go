@@ -1,5 +1,5 @@
 package hello
 
 func OutputPlus(x, y int) int {
-	return 0
+	return x / y
 }
